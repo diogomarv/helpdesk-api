@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/FsKEIjzpgHdjXtYTUzComnbWqGri8qFNG39kgsFt9X1RrT9wnnw6ONMJmxOFs5dfPHhiFS7cwcZG3fAC/4Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\personal-projects\\HelpDeskAPI\\HelpDeskAPI\\HelpDesk.Application\\HelpDesk.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diogo\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
